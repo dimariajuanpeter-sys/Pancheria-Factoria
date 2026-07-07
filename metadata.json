@@ -1,0 +1,6 @@
+{
+  "name": "Panchería Gourmet",
+  "description": "Tienda premium de panchos gourmet con envío a domicilio, múltiples salsas y seguimiento del estado del pedido en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
